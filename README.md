@@ -7,14 +7,14 @@
 
 ```            ,met$$$$$gg.                                                             
 ```         ,g$$$$$$$$$$$$$$$P.     « .─────────────. » « .─────────────. »
-```       ,g$$P"     """Y$$.".                    OS:     Debian                                                                  
-```      ,$$P'              `$$$.             Kernel:     5.10.0-16-amd64
+```       ,g$$P"     """Y$$.".                    OS:     Kali Linux                                                                  
+```      ,$$P'              `$$$.            Machine:     MSI Thin 15 B12UC 
 ```    ',$$P       ,ggs.     `$$b:                DE:     MATE                                                        
-```   `d$$'     ,$P"'   .    $$$                  WM:     Metacity (Marco) 
+```   `d$$'     ,$P"'   .    $$$                  WM:     GNOME 
 ```   $$P      d$'     ,    $$P"               Shell:     zsh 
-```   $$:      $$.   -    ,d$$'                  CPU:     Intel i5-3340M                                                                  
-```   $$\;      Y$b._   _,d$P'                   GPU:     AMD radeon hd 7570m                                                      
-```   Y$$.    `.`"Y$$$$P"'                    Memory:     1.90GiB / 15.57GiB                                                                          
+```   $$:      $$.   -    ,d$$'                  CPU:     Intel I5-13420H                                                                  
+```   $$\;      Y$b._   _,d$P'                   GPU:     NVIDIA GeForce RTX 3050 / Intel UHD Graphics                                                      
+```   Y$$.    `.`"Y$$$$P"'                    Memory:     1.90GiB / 47.86GiB                                                                          
 ```   `$$b      "-.__                 « .───────────────────────────────. »
 ```    `Y$$                                                                                     
 ```     `Y$$.                                                                                               
