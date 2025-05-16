@@ -8,8 +8,8 @@ martinsleveland@debian:/github/main$ neofetch
 ```         ,g$$$$$$$$$$$$$$$P.     « .─────────────. » « .─────────────. »
 ```       ,g$$P"     """Y$$.".                    OS:     Kali Linux                                                                  
 ```      ,$$P'              `$$$.            Machine:     MSI Thin 15 B12UC 
-```    ',$$P       ,ggs.     `$$b:                DE:     MATE                                                        
-```   `d$$'     ,$P"'   .    $$$                  WM:     GNOME 
+```    ',$$P       ,ggs.     `$$b:                DE:     GNOME                                                        
+```   `d$$'     ,$P"'   .    $$$                  WM:     unknown 
 ```   $$P      d$'     ,    $$P"               Shell:     zsh 
 ```   $$:      $$.   -    ,d$$'                  CPU:     Intel I5-13420H                                                                  
 ```   $$\;      Y$b._   _,d$P'                   GPU:     NVIDIA GeForce RTX 3050 / Intel UHD Graphics                                                      
