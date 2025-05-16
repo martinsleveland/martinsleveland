@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&center=true&width=440&lines=User%3A+Martin+Sleveland;Loading+cyber+intelligence...;Injecting+knowledge+into+brainframe...;Connection:+Established+%E2%9C%94">
 </div>
 
-```            
-sudo@martinsleveland:~$ neofetch
+```
+PS C:\Users\martslev\OneDrive\hacks_martin\w0rld0f5xcret5>           
+sudo@martinsleveland:/github/main$ neofetch
                 ,met$$$$$gg.                                                         
 ```         ,g$$$$$$$$$$$$$$$P.     « .─────────────. » « .─────────────. »
 ```       ,g$$P"     """Y$$.".                    OS:     Kali Linux                                                                  
@@ -21,4 +22,4 @@ sudo@martinsleveland:~$ neofetch
 ```         `Y$$b.                 
 ```            `"Y$b._                                                                                            
 ```                `"""
-sudo@martinsleveland:~$                                                                                       
+sudo@martinsleveland:/github/main$ _                                                                                       
