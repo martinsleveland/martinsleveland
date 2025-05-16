@@ -4,7 +4,7 @@
 
 ```
 PS C:\Users\martslev\OneDrive\hacks_martin\w0rld0f5xcret5>           
-sudo@martinsleveland:/github/main$ neofetch
+sudo@martinsleveland:/github/main$ neofetch_
                 ,met$$$$$gg.                                                         
 ```         ,g$$$$$$$$$$$$$$$P.     « .─────────────. » « .─────────────. »
 ```       ,g$$P"     """Y$$.".                    OS:     Kali Linux                                                                  
