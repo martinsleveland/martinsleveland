@@ -5,7 +5,9 @@
 </div>
 ```
 
-```            ,met$$$$$gg.                                                             
+```            
+sudo@martinsleveland:~$ neofetch
+                ,met$$$$$gg.                                                         
 ```         ,g$$$$$$$$$$$$$$$P.     « .─────────────. » « .─────────────. »
 ```       ,g$$P"     """Y$$.".                    OS:     Kali Linux                                                                  
 ```      ,$$P'              `$$$.            Machine:     MSI Thin 15 B12UC 
@@ -21,4 +23,5 @@
 ```       `$$b.                    
 ```         `Y$$b.                 
 ```            `"Y$b._                                                                                            
-```                `"""                                                                                           
+```                `"""
+sudo@martinsleveland:~$                                                                                       
