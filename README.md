@@ -1,4 +1,7 @@
-<h1 align="center">💀 w0rld0f5xcret5 💀</h1>
+<p align="center">
+  <img src="https://github.com/Martinsleveland/Martinsleveland/blob/main/MARTINSLEVELANDGLITCH.png?raw=true" alt="Martin Sleveland Glitch Banner" />
+</p>
+
 <p align="center"><i>"Booting system... Accessing core protocols..."</i></p>
 
 <div align="center">
