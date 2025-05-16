@@ -21,5 +21,6 @@ martinsleveland@debian:/github/main$ neofetch
 ```         `Y$$b.                 
 ```            `"Y$b._                                                                                            
 ```                `"""
-martinsleveland@debian:/github/main/me$ 
+martinsleveland@debian:/github/main/me$
+                                        ▔
 ```                                                                       
