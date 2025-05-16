@@ -4,7 +4,7 @@
 
 ```
 PS C:\Users\martslev\OneDrive\hacks_martin\w0rld0f5xcret5>           
-sudo@martinsleveland:/github/main$ neofetch_
+sudo@martinsleveland:/github/main$ neofetch
                 ,met$$$$$gg.                                                         
 ```         ,g$$$$$$$$$$$$$$$P.     « .─────────────. » « .─────────────. »
 ```       ,g$$P"     """Y$$.".                    OS:     Kali Linux                                                                  
@@ -22,4 +22,8 @@ sudo@martinsleveland:/github/main$ neofetch_
 ```         `Y$$b.                 
 ```            `"Y$b._                                                                                            
 ```                `"""
-sudo@martinsleveland:/github/main$ _                                                                                       
+sudo@martinsleveland:/github/main$ 
+```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&lines=_">
+</div>                                                                        
