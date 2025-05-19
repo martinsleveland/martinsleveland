@@ -22,7 +22,7 @@ martinsleveland@debian:/~/martinsleveland/pc/sys$ neofetch
 ```            `"Y$b._                                                                                            
 ```                `"""
 martinsleveland@debian:/github/martinsleveland/me$
-                                        ▔
+                                                  ▔
 ```                                                                       
 
 [..       [..                   [..                     [.. ..   [..                                [..                        [..
