@@ -3,7 +3,7 @@
 </div>
 
 ```           
-martinsleveland@debian:/github/main$ neofetch
+martinsleveland@debian:/~/martinsleveland/pc/sys$ neofetch
                 ,met$$$$$gg.                                                         
 ```         ,g$$$$$$$$$$$$$$$P.     « .─────────────. » « .─────────────. »
 ```       ,g$$P"     """Y$$.".                    OS:     Kali Linux                                                                  
@@ -21,7 +21,7 @@ martinsleveland@debian:/github/main$ neofetch
 ```         `Y$$b.                 
 ```            `"Y$b._                                                                                            
 ```                `"""
-martinsleveland@debian:/github/main/me$
+martinsleveland@debian:/github/martinsleveland/me$
                                         ▔
 ```                                                                       
 
