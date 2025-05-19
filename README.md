@@ -9,11 +9,11 @@ martinsleveland@debian:/github/main$ neofetch
 ```       ,g$$P"     """Y$$.".                    OS:     Kali Linux                                                                  
 ```      ,$$P'              `$$$.            Machine:     MSI Thin 15 B12UC 
 ```    ',$$P       ,ggs.     `$$b:                DE:     GNOME                                                        
-```   `d$$'     ,$P"'   .    $$$                  WM:     unknown 
+```   `d$$'     ,$P"'   .    $$$                  WM:     Mutter 
 ```   $$P      d$'     ,    $$P"               Shell:     zsh 
-```   $$:      $$.   -    ,d$$'                  CPU:     Intel I5-13420H                                                                  
-```   $$\;      Y$b._   _,d$P'                   GPU:     NVIDIA GeForce RTX 3050 / Intel UHD Graphics                                                      
-```   Y$$.    `.`"Y$$$$P"'                    Memory:     1.90GiB / 47.86GiB                                                                          
+```   $$:      $$.   -    ,d$$'                  CPU:     13th Gen Intel i5-13420H                                                                  
+```   $$\;      Y$b._   _,d$P'                   GPU:     NVIDIA GeForce RTX 3050 Mobile                                                      
+```   Y$$.    `.`"Y$$$$P"'                    Memory:     3.18 GB / 47.03 GB                                                                          
 ```   `$$b      "-.__                 « .───────────────────────────────. »
 ```    `Y$$                                                                                     
 ```     `Y$$.                                                                                               
